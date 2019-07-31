@@ -2,7 +2,7 @@
   "name": "log-this-variable",
   "main": "./lib/log-this-variable",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "Press ctrl+L to log any variable immediately.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "log-this-variable:log"
