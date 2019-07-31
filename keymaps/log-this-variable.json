@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-l": "log-this-variable:log"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "log-this-variable",
+  "main": "./lib/log-this-variable",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "log-this-variable:log"
+  },
+  "repository": "https://github.com/raphael-leger/log-this-variable",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

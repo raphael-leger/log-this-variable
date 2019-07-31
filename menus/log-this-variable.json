@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Log this variable",
+        "command": "log-this-variable:log"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Log this variable",
+          "submenu": [
+            {
+              "label": "Log selected",
+              "command": "log-this-variable:log"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
