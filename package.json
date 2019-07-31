@@ -1,7 +1,7 @@
 {
   "name": "log-this-variable",
   "main": "./lib/log-this-variable",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Press ctrl+L to log any variable immediately.",
   "keywords": [],
   "activationCommands": {
